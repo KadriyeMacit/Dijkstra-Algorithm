@@ -1,2 +1,2 @@
-# Dijsktra-Algorithm
- Dijsktra Algorithm in Data Structure .
+# Dijkstra-Algorithm
+ Dijkstra Algorithm in Data Structure .
